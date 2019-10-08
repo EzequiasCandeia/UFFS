@@ -2,3 +2,23 @@ Olá, este é o primeiro arquivo do meu repositório, este arquivo é um
 arquivo teste que esta sendo feito para validar alterações.
 Git pull é usado para buscar oque tem no servidor do git.
 Git push é usado para enviar as alterações para o servidor do git.
+comandos como:
+git status
+é usado para ver o status de arquivos que estão no repositorio e oque foi alterado.
+git diff
+É usado para ver as alterações que foram feitas nos arquivos.
+git commit -m
+É usado para gravar a mensegem com as alterações.
+git add
+Esta preparando o arquivo para ser comitatado.
+
+A ordem é a seguinte:
+
+1º git clone ________URL para clonar_______
+2º git status
+3° nano teste.txt //Criando um arquivo novo para testar 
+4º git add ___nome do aquivo que queira preparar para enviar___
+5º git commit -m ____Grave a messagem que vai acompanhar o arquivo alterado___
+6º git push //Este comando vai enviar o arquivo para o repositório
+7º git pull // Este comando vai pegar oque tem no repositório e não na pasta local.
+
