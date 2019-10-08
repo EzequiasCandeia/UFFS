@@ -23,3 +23,6 @@ A ordem é a seguinte:
 7º git pull // Este comando vai pegar oque tem no repositório e não na pasta local.
 
 revertendo o commit.
+Comando para reverter antes de dar commit é 
+git checkout ___nome do arquivo_que deseja reverter__
+
