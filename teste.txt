@@ -1,2 +1,4 @@
 Olá, este é o primeiro arquivo do meu repositório, este arquivo é um 
 arquivo teste que esta sendo feito para validar alterações.
+Git pull é usado para buscar oque tem no servidor do git.
+Git push é usado para enviar as alterações para o servidor do git.
